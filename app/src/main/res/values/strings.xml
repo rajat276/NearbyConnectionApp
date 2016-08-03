@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NearbyConnectionApp</string>
+    <string name="service_id">com.example.rajatjain.nearbyconnectionapp.service</string>
+    <string name="API_KEY">AIzaSyAsEvJZ9sssNaU0JesKcMLNcxTdnErkA34</string>
+    <string name="connection_type_host">Host</string>
+    <string name="connection_type_client">Client</string>
+
+
+</resources>
