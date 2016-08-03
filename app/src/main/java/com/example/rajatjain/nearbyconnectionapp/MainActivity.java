@@ -225,6 +225,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
             });
         } else {
             Nearby.Connections.rejectConnectionRequest(mGoogleApiClient, remoteEndpointId );
+            //todo xyz
         }
     }
 
